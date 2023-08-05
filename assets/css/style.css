@@ -1587,7 +1587,7 @@ section {
 }
 
 #hero-courses h1 {
-  text-shadow: 2px 2px 4px #000000eb;
+  text-shadow: 1px 1px 10px #000000eb;
   font-family: none;
   font-weight: 700;
    color: #fefefee6;
@@ -1595,10 +1595,10 @@ section {
  
 
 #hero-courses h5 {
-  text-shadow: 2px 2px 4px #efcacaeb;
+  text-shadow: 1px 1px 10px #000;
   font-family: none;
   font-weight: 700;
-   color: #281212fb;
+   color:#fff;
 }
 
 /* end  */
@@ -1613,18 +1613,18 @@ section {
 }
 
 #hero-hospitality h1 {
-  text-shadow: 2px 2px 4px #000000eb;
+  text-shadow: 1px 1px 10px #000000eb;
   font-family: none;
   font-weight: 700;
-   color: #fefefee6;
+   color: #fff;
 }
  
 
 #hero-hospitality h5 {
-  text-shadow: 2px 2px 4px #efcacaeb;
+  text-shadow: 1px 1px 10px #000000eb;
   font-family: none;
   font-weight: 700;
-   color: #281212fb;
+   color:#fff;
 }
 
 /* hospitality end  */
